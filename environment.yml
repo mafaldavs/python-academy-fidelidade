@@ -1,4 +1,4 @@
-name: python-academy
+name: python-academy-friday
 dependencies:
   - python>=3.9
   - pandas
